@@ -1,0 +1,16 @@
+{
+    "name": "carlescliment/php-mud-server",
+    "description": "Mud server written in PHP",
+    "require-dev": {
+        "phpspec/phpspec": "dev-master"
+    },
+    "license": "Apache2",
+    "authors": [
+        {
+            "name": "Carles Climent",
+            "email": "carlescliment@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": { "psr-0": { "": "src/" } }
+}
