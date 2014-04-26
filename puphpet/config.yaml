@@ -28,7 +28,7 @@ vagrantfile-local:
         synced_folder:
             2W46J81F97jR:
                 source: ./
-                target: /var/www
+                target: /var/www/php-mud-server
                 nfs: 'false'
         usable_port_range: 2200..2250
     ssh:
